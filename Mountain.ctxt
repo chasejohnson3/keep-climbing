@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=
+comment1.target=Point\ getLocation()
+comment2.params=a
+comment2.target=double\ getHeight(Point)
+comment3.params=a\ b
+comment3.target=double\ getVertDist(Point,\ Point)
+comment4.params=a\ b
+comment4.target=double\ getVertSlope(Point,\ Point)
+comment5.params=a\ b
+comment5.target=double\ getDistance(Point,\ Point)
+comment6.params=a\ b
+comment6.target=boolean\ isLegal(Point,\ Point)
+numComments=7

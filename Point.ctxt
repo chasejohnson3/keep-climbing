@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=ex\ why
+comment0.target=Point(double,\ double)
+comment1.params=
+comment1.target=double\ getX()
+comment2.params=
+comment2.target=double\ getY()
+comment3.params=ex
+comment3.target=void\ setX(double)
+comment4.params=why
+comment4.target=void\ setY(double)
+numComments=5
